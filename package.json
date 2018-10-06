@@ -1,0 +1,19 @@
+{
+  "name": "marko-onmount-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "express": "^4.16.3",
+    "lasso": "^3.2.6",
+    "lasso-babel-transform": "^1.0.2",
+    "lasso-marko": "^2.4.4",
+    "marko": "4.13.7"
+  }
+}
